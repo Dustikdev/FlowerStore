@@ -1,6 +1,7 @@
 FlowerStore project
 
 This is a group project for a flower shop with elite bouquets, almost all the layout, modal windows were made by me. Backend implemented on nest.js, the site is not fully functional (backend not working and some features not realised).
+The site is fully adapted for tablets and mobile devices.
 
 demo http://b90988mg.beget.tech/
 
